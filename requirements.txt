@@ -1,5 +1,6 @@
 ﻿aiodns==3.0.0
 aiohttp==3.8.1
+pystan==3.5.0
 aiosignal==1.2.0
 altair==4.2.0
 appdirs==1.4.4

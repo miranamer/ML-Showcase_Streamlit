@@ -6,4 +6,9 @@
 
 <p align="center">
   <h2>ML Showcase is a streamlit, python app that allows users to learn and use some popular machine learning algorithms.</h2>
+  
 </p>
+
+````diff
++ Go to the pages folder to see the source code for the ML Algorithms
+````
